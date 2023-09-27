@@ -1,1 +1,1 @@
-# rock-paper-scissors
+basic rock paper scissor game player vs computer
